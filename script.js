@@ -314,7 +314,7 @@ let gantiLet = 1;
 8. Berikan satu contoh nyata di program besar yang bisa menimbulkan bug karena var bocor keluar blok atau dideklarasikan ulang.
    Jawab: Penggunaan variabel penghitung `var i` di dalam perulangan bersarang (`for loop`) yang tidak sengaja menimpa nilai variabel `i` di blok luar, menyebabkan infinite loop atau nilai data tertimpa secara tidak terduga.
 */
-
+ 
 
 
  
